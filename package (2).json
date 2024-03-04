@@ -1,0 +1,19 @@
+{
+  "name": "supersum2number",
+  "version": "1.0.0",
+  "description": "Simple Code to SUM 2 input number",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anhthnguyen/SuperSUM2Number.git"
+  },
+  "author": "Anhthnguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anhthnguyen/SuperSUM2Number/issues"
+  },
+  "homepage": "https://github.com/Anhthnguyen/SuperSUM2Number#readme"
+}
